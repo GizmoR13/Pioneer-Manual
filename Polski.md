@@ -1,4 +1,4 @@
-# Pioneer
+﻿# Pioneer
 
 ## Instrukcja
 
@@ -16,13 +16,13 @@
         -   Podróże międzygwiezdne
 
     -   [[Zarabianie pieniędzy]]
-        -   Kupno i sprzedarz towarów
+        -   Kupno i sprzedaż towarów
         -   Ogłoszenia
 
     -   [[Modernizacja statku]]
         -   Instalowanie wyposażenia
         -   Zakup nowego statku
-        -   Lista wypozażenia
+        -   Lista wyposażenia
 
     -   [[Walka]]
         -   Jak przeżyć na początku gry
