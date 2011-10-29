@@ -3,5 +3,5 @@
 ## Select a language :
 
    - [[English]]
-   - img = flag_set/pl.png  
+   - flag_set/pl.png  
 
