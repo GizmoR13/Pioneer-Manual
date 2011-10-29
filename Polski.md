@@ -43,7 +43,7 @@
     -   [[Dostosowanie gry]]
 
 
---------------------------------------------------------------------------------------
+-
 Zestaw ikon narodowych stworzony przez [Nordic Factory](http://www.nordicfactory.com/)
 
 Niniejsza instrukcja obsługi jest chroniona prawami autorskimi.
