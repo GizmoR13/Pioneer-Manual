@@ -3,6 +3,5 @@
 ## Select a language :
 
    - [[English]]
-   - !(flag_set/pl.png) [[Polski]]
-   
+   - ![Polski](flag_set/pl.png)   
 
