@@ -43,6 +43,8 @@
     -   [[Customizing your game]]
 
 
+Flag set is created by [Nordic Factory](http://www.nordicfactory.com/)
+
 This manual is copyrighted. Distribution is permitted under the GNU
 Free Documentation License. See
 [[http://www.gnu.org/licenses/fdl-1.3.html]] for copying
