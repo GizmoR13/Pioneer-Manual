@@ -1,4 +1,4 @@
-# Flying your ship
+# Pilotowanie statku
 
 Your ship is equipped with a computerised flight and navigation
 control system, as well as a complete suite of communications
@@ -20,7 +20,7 @@ output device and entertainment centre.
 It is not recommended that you use this display to show holovids or
 other distracting material whilst in control of the vessel.
 
-## The console
+## Konsola
 
 Your ship comes with the very latest in dynamic console technology.
 The images on the various control panels change with their
@@ -88,7 +88,7 @@ keyboard provides access to many of the console functions.
 -   The buttons on the right panel can be controlled using **F5**
     to **F8**
 
-## Taking off
+## Start
 
 Your ship's automated systems make such old-fashioned practices as
 lengthy pre-flight checks unnecessary. If the ship is in any way
@@ -115,56 +115,52 @@ When you take off, your ship will be under manual control. When
 taking off from a planet, this means that you must take more or
 less immediate action to avoid falling back to the ground.
 
-## Control
+## Sterowanie
 
-There are two ways in which you can actively control your ship. The
-first of these, "Manual control," gives you the most control, and
-requires the pilot to use a larger number of controls. The second,
-"Set speed," reduces the number of controls but gives a slightly
-reduced level of control, by having the shipboard computer take
-over the job of firing individual thrusters. These modes are
-switched using the engine control icon, or the F5 key, when in
-flight.
+Są dwie metody kontroli statku. Pierwsza z nich, "Kontrola ręczna,"
+daje większą swobodę działania i wymaga od pilota użycia większej
+ilości klawiszy. Druga, "Set speed," nie wymaga używania tak wielu
+klawiszy, ale daje nieco mniejszą kontrolę nad statkiem, komputer
+pokładowy kontroluje silniki, utrzymując statek na określonej pozycji.
+Pomiędzy obydwoma trybami przełączamy się używając ikonki kontroli 
+silnika, lub używając klawisza F5 w czasie lotu.
 
-Manual control requires the use of twelve keys, with the option of
-also using the mouse.
+Do ręcznej kontroli używanych jest 12 klawiszy, z możliwością
+jednoczesnego użycia myszy.
 
-*Attitude:*
+*Orientacja:*
 
--   **Q** and **E** roll your ship left and right.
--   **A** and **D** yaw your ship left and right.
--   **W** and **S** pitch your ship up and down.
--   When holding the right hand button on the pointing device, it
-    controls yaw and pitch.
+-   **Q** i **E** obraca statek w lewo lub w prawo.
+-   **A** i **D** odchyla statek w lewo lub w prawo.
+-   **W** i **S** odchyla statek w górę lub w dół.
+-   Trzymając wciśnięty prawy przycisk myszki, kontrolujesz
+    odchylanie.
 
-*Thrust:*
+*Silniki:*
 
--   **I** engages the main, rear thruster. This is the most
-    powerful one.
--   **K** engages the front, retro thruster.
--   **J** engages the right thruster, pushing the ship left.
--   **L** engages the left thruster, pushing the ship right.
--   **U** engages the ventral thruster, pushing the ship up.
--   **O** engages the dorsal thruster, pushing the ship down.
+-   **I** uruchamia główny, tylny silnik. Ten jest najsilniejszy.
+-   **K** uruchamia przedni silnik wspomagający.
+-   **J** uruchamia prawy silnik wspomagający, pcha statek w lewo.
+-   **L** uruchamia lewy silnik wspomagający, pcha statek w prawo.
+-   **U** uruchamia dolny silnik wspomagający, pcha statek w górę.
+-   **O** uruchamia górny silnik wspomagający, pcha statek w dół.
 
-In set speed mode, the thrust keys become inactive. Instead, the
-speed of the ship is set by the computer, relative to the nearest
-significant astrometric body (such as a space station, planet or
-star).
+W trybie In set speed mode, klawisze silników stają się nieaktywne.
+Natomiast prędkość staku jest utrzymywana przez komputer, w 
+odniesieniu do najbliższego istotnego obiektu astronomicznego
+(takiego jak stacja kosmiczna, planeta czy gwiazda).
 
 -   The initial set speed is the magnitude of your velocity when
-    the computer takes over. This means: it's the same speed, but if
+    the computer takes over. To znaczy: it's the same speed, but if
     your ship isn't going forwards, it soon will be.
--   The speed can be set to a higher amount with the **Return**
-    key.
--   The speed can be set to a lower speed with the **Right Shift**
-    key.
+-   Do zwjękrzenia ustalonej prędkości służy klawisz **Return**
+-   Do zmniejszenia ustalonej prędkości służy klawisz **Prawy Shift**
 
-## Docking
+## Dokowanie
 
-## Using the autopilot
+## Autopilot
 
-## Interstellar travel
+## Podróże międzygwiezdne
 
 
 

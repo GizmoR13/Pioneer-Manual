@@ -1,52 +1,52 @@
 # Pioneer
 
-## The Manual
+## Instrukcja
 
-*(a work in progress, natch)*
+*(tłumaczenie w toku, Peter)*
 
-# Table of contents (outline)
+# Spis treści
 
--   Playing the game
-    -   [[Flying your ship]]
-        -   The console
-        -   Taking off
-        -   Control
-        -   Docking
-        -   Using the autopilot
-        -   Interstellar travel
+-   Gra
+    -   [[Pilotowanie statku]]
+        -   Konsola
+        -   Start
+        -   Sterowanie
+        -   Dokowanie
+        -   Autopilot
+        -   Podróże międzygwiezdne
 
-    -   [[Making money]]
-        -   Buying and selling goods
-        -   Using the bulletin board
+    -   [[Zarabianie pieniędzy]]
+        -   Kupno i sprzedarz towarów
+        -   Ogłoszenia
 
-    -   [[Upgrading your ship]]
-        -   Installing equipment
-        -   Purchasing a new ship
-        -   List of upgrades
+    -   [[Modernizacja statku]]
+        -   Instalowanie wyposażenia
+        -   Zakup nowego statku
+        -   Lista wypozażenia
 
-    -   [[Fighting]]
-        -   Avoiding immediate death
-        -   Defensive equipment
-            -   Shields
+    -   [[Walka]]
+        -   Jak przeżyć na początku gry
+        -   Wyposażenie obronne
+            -   Osłony
             -   ECM
 
-        -   Weapons
-            -   Using your laser
-            -   Using missiles
+        -   Bronie
+            -   Użycie lasera
+            -   Użycie pocisków
 
-        -   Repairing damage
-
-
--   Modifying the game
-    -   [[Installing new models]]
-    -   [[Installing new missions]]
-    -   [[Customizing your game]]
+        -   Naprawa uszkodzeń
 
 
-This manual is copyrighted. Distribution is permitted under the GNU
-Free Documentation License. See
-[[http://www.gnu.org/licenses/fdl-1.3.html]] for copying
-conditions.
+-   Modyfikacje gry
+    -   [[Dodawanie nowych modeli]]
+    -   [[Dodawanie nowych misji]]
+    -   [[Dostosowanie gry]]
+
+
+Niniejsza instrukcja obsługi jest chroniona prawami autorskimi.
+Dystrybucja jest dozwolona na warunkach licencji GNU
+Free Documentation License. Przeczytaj warunki licencji na
+[[http://www.gnu.org/licenses/licenses.pl.html]].
 
 
 
