@@ -2,6 +2,6 @@
 
 ## Select a language :
 
-   - [[English]]
+   - [[flag_set/pl.png][English]]
    - [[flag_set/pl.png]]
 
