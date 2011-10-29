@@ -45,7 +45,7 @@
 
 
 
-'Flag set is created by [Nordic Factory](http://www.nordicfactory.com/)'
+"Flag set is created by [Nordic Factory](http://www.nordicfactory.com/)"
 
 This manual is copyrighted. Distribution is permitted under the GNU
 Free Documentation License. See
