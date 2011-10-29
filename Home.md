@@ -2,6 +2,6 @@
 
 ## Select a language :
 
-   *[[Polski]]
-   *[[English]]
+   - [[Polski]]
+   - [[English]]
 
