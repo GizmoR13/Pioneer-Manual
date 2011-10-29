@@ -3,7 +3,8 @@
 ## Select a language :
 
    [[flag_set/uk.png]] 
-     [[English]]
+
+[[English]]
 
    [[flag_set/pl.png]] [[Polski]]
 
