@@ -43,6 +43,9 @@
     -   [[Dostosowanie gry]]
 
 
+
+Zestaw ikon narodowych stworzony przez [Nordic Factory](http://www.nordicfactory.com/)
+
 Niniejsza instrukcja obsługi jest chroniona prawami autorskimi.
 Dystrybucja jest dozwolona na warunkach licencji GNU
 Free Documentation License. Przeczytaj warunki licencji na
